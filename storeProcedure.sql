@@ -1,4 +1,4 @@
-alter procedure getOrderByiD
+create procedure getOrderByiD
 @id int
 
 AS
